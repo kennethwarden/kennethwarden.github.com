@@ -2,10 +2,12 @@ h1
 {
 font-family: Arial;
 font-size: 18;
+color: blue;
 }
 
 h2, h3
 {
 font-family: Garamond;
 font-size: 14;
+color: green;
 }
